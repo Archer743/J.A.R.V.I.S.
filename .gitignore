@@ -1,0 +1,14 @@
+__pycache__/
+Data/__pycache__/
+Data/DB_commands/__pycache__/
+Data/Loading/__pycache__/
+Error/__pycache__/
+Events/__pycache__/
+Commands/games/__pycache__/
+Commands/info/__pycache__/
+Commands/moderation/__pycache__/
+Commands/music/__pycache__/
+Commands/music/youtube.py
+Data/config.json
+DiscordUtils/
+z_others/
