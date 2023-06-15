@@ -25,7 +25,7 @@
 >
 > - *[ffmpeg](https://www.wikihow.com/Install-FFmpeg-on-Windows)*
 
-## Commands: 33 / ~65
+## Commands: 30 / ~65
 >
 > | **Command Name**  | **Description** | **Arguments** |
 > | :-------------: |:----------------------------------------:| :----------:|
